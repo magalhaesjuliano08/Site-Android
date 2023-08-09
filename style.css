@@ -83,6 +83,12 @@ picture {
   width: 100%;
 }
 
+.img-pequena {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
 main {
   background-color: white;
   min-width: 280px;
